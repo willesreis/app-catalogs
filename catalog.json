@@ -1,0 +1,17 @@
+{
+  "music": [
+    {
+      "id": "channel_01",
+      "title": "A rádio que toca sua alma",
+      "album": "Streaming",
+      "artist": "Shoutcast",
+      "genre": "Gospel",
+      "source": "https://streaming.fox.srv.br:8070/stream",
+      "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "www.shoutcast.com"
+    }
+  ]
+}
