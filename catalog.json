@@ -7,7 +7,7 @@
       "artist": "Shoutcast",
       "genre": "Gospel",
       "source": "https://streaming.fox.srv.br:8070/stream",
-      "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
+      "image": "https://github.com/willesreis/app-catalogs/blob/9dfa768ca1af84044589fa973a90d4782517b09f/drawable-xxhdpi/botao_p.png",
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": -1000,
