@@ -10,7 +10,7 @@
       "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
       "trackNumber": 1,
       "totalTrackCount": 1,
-      "duration": 0,
+      "duration": -1000,
       "site": "www.shoutcast.com"
     }
   ]
