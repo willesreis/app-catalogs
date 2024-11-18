@@ -7,7 +7,7 @@
       "artist": "Streaming",
       "genre": "Gospel",
       "source": "https://streaming.fox.srv.br:8070/stream",
-      "image": "media/ic_launcher_foreground.png",
+      "image": "https://raw.githubusercontent.com/willesreis/app-catalogs/5dae85b3bca67f93c0152407dd11bf5eeaa40b29/media/ic_launcher_foreground.png",
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": 0,
