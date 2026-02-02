@@ -2,16 +2,29 @@
   "music": [
     {
       "id": "channel_01",
-      "title": "Música cristã contemporânea",
+      "title": "Instrumental",
       "album": "Shoutcast",
-      "artist": "Streaming",
+      "artist": "Música cristã contemporânea",
       "genre": "Gospel",
       "source": "https://streaming.fox.srv.br:8070/stream",
       "image": "media/ic_launcher_foreground.png",
       "trackNumber": 1,
-      "totalTrackCount": 1,
+      "totalTrackCount": 2,
       "duration": -1,
-      "site": "www.shoutcast.com"
+      "site": "www.saf.org.br"
+    },
+    {
+      "id": "channel_02",
+      "title": "Streaming",
+      "album": "Shoutcast",
+      "artist": "Em breve, nova faixa",
+      "genre": "Gospel",
+      "source": "https://streaming.fox.srv.br:8070/stream",
+      "image": "media/ic_launcher_foreground.png",
+      "trackNumber": 2,
+      "totalTrackCount": 2,
+      "duration": -1,
+      "site": "www.saf.org.br"
     }
   ]
 }
