@@ -2,9 +2,9 @@
   "music": [
     {
       "id": "channel_01",
-      "title": "Música e Mensagens",
+      "title": "Rádio SAF Tradicional",
       "album": "Shoutcast",
-      "artist": "Rádio SAF",
+      "artist": "Música tradicional e Mensagens",
       "genre": "Gospel",
       "source": "https://streaming.fox.srv.br:8070/stream",
       "image": "media/4.png",
@@ -15,9 +15,9 @@
     },
     {
       "id": "channel_02",
-      "title": "Música Instrumental",
+      "title": "Rádio SAF Instrumental",
       "album": "Shoutcast",
-      "artist": "Rádio SAF Instrumental",
+      "artist": "Música Instrumental",
       "genre": "Gospel",
       "source": "https://streaming.fox.srv.br:8068/stream",
       "image": "media/5.png",
